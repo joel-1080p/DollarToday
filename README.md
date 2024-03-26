@@ -1,6 +1,6 @@
 # A Dollar Today
-![dollarToday](https://github.com/joel-1080p/DollarToday/assets/156847809/edd7459a-afdb-4f31-b013-a8ee7ef78c5f)
 
+![dollarToday](https://github.com/joel-1080p/DollarToday/assets/156847809/9560d263-3a05-48a3-8862-129d5957658f)
 
 ### HOW IT WORKS
 
