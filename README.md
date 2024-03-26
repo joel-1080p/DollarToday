@@ -1,5 +1,6 @@
 # A Dollar Today
-![dollarToday copy](https://github.com/joel-1080p/a_dollar_today/assets/156847809/3e70bc22-b89a-45a8-9eac-a7ac7f3fcd46)
+![dollarToday](https://github.com/joel-1080p/DollarToday/assets/156847809/edd7459a-afdb-4f31-b013-a8ee7ef78c5f)
+
 
 ### HOW IT WORKS
 
@@ -11,15 +12,13 @@ If you toggle the switch, it will give you the inverse showing what it would fee
 Let's say you wanted to see how much a $5 milkshake (milk and icecream) in 1993 would feel like today.
 Type in 5, and select 1993 and it would feel lake paying $11.84 today.
 
-![IMG_1523](https://github.com/joel-1080p/a_dollar_today/assets/156847809/57579640-ce74-4638-b6f2-2c603f2f4303)
-
+![IMG_1523](https://github.com/joel-1080p/DollarToday/assets/156847809/7abc9551-2b8c-44ff-95c5-df534aaba8f0)
 
 ### Example 2 (Flipping the toggle):
 Let's say you wanted to know how much a $2,000 bounty in 1865 (If you turned in a western outlaw) would feel like today.
 It would feel like getting rewarded $96,000!
 
-![IMG_1524](https://github.com/joel-1080p/a_dollar_today/assets/156847809/52b22586-2683-4402-a7b9-acdc1b3c1114)
-
+![IMG_1524](https://github.com/joel-1080p/DollarToday/assets/156847809/4d8e7079-a525-41cc-8e7a-e732f3be6bbf)
 
 ### HOW I USE IT
 You can download the files and all of the calculations would be in 1DollarToday/ViewController.swift
